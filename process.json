@@ -1,0 +1,5 @@
+{
+  "uid": "tvl-watcher",
+  "script": "src/main.js",
+  "sourceDir": "."
+}
