@@ -17,6 +17,6 @@ async function main() {
 
 main().catch(console.error);
 
-cron.schedule('* * * * *', () => {
+cron.schedule('*/10 * * * *', () => {
   main().catch(console.error);
 });
