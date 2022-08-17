@@ -1,1 +1,2 @@
-npm i
+call npm i
+pause

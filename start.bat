@@ -1,1 +1,2 @@
-forever start -a ./process.json
+call pm2 start
+pause
