@@ -7,7 +7,9 @@
 
 Запустить `install.bat` (установит зависимости для скрипта), затем `start.bat`
 
-| Если будет ошибка `... cannot be loaded because running scripts is disabled on this system...`
+Логи можно посмотреть кликнув на `logs.bat`
+
+> Если будет ошибка `... cannot be loaded because running scripts is disabled on this system...`, тогда в powershell от имени администратора ввести `Set-ExecutionPolicy RemoteSigned` и согласиться
 
 ## Авто-запуск при старте системы
 
