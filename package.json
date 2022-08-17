@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "jsdom": "^20.0.0",
+    "node-cron": "^3.0.2",
     "node-notifier": "^10.0.1"
   }
 }
