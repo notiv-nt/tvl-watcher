@@ -6,6 +6,6 @@ module.exports.notify = (title, message) => {
     message,
     // sound: true,
     sound: 'Purr',
-    timeout: -1
+    timeout: 60 * 10
   });
 };
